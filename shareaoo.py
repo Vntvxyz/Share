@@ -53,11 +53,11 @@ def banner():
       
                        \033[0;93m TOOL SHARE ẢO MAX SPEED                    
                                                             
-\033[1;38m~ \033[1;31mTeleeee : \033[0;93m{__WEB__}
+\033[1;38m~ \033[1;31mDEV : \033[0;93m{__DEV__}
 \033[1;37m- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 {vin_tool}\033[1;37mCopyright By: \033[1;34m{__ADMIN__}
 {vin_tool}\033[1;35mZalo: \033[1;34m{__ZALO__}
-{vin_tool}\033[1;36mFacebook: \033[1;31mFb.com/{__ZALO__}
+{vin_tool}\033[1;36mFacebook: \033[1;31mFb.com/{__FACEBOOK__}
 {vin_tool}\033[0;93mTool Tăng Share Ảo Bằng Page Pro5 Version {__VERSION__}
 \033[1;37m- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -"""
     echo(banner)
